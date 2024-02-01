@@ -1,1 +1,2 @@
-# DataScienceProject-Predictive-Model-of-Credit-Card-Approval
+# DataScienceProject: Predictive Model of Credit Card Approval
+# Developing a predictive model of Credit Card Approval by using Pandas and Skilearn in Python, which contained processing data of credit card application information from Kaggle with 690 samples and 15 input features. I trained 12 different classifier models, evaluated them with accuracy, recall, F1 & ROC, and selected the best performing models: Stochastic Gradient Descent. Finally, I adopted grid search to choose the values of the hyperparameters of SGD to implement optimization with a last result: log loss function and accuracy of 0.87.
